@@ -16,3 +16,12 @@ Bibliography:
 - Ricker, Robert, et al. "A weekly Arctic sea-ice thickness data record from merged CryoSat-2 and SMOS satellite data." The Cryosphere 11.4 (2017): 1607-1623.
 - Many other previous studies have reported statistical interpolation methods under a variety of names, e.g. Gaussian process
 regression (Paciorek and Schervish, 2005; Rasmussen and Williams, 2006), kriging (Cressie and Johannesson, 2008; Kang et al., 2010; Kostopoulou, 2020), objective analysis (Le Traon et al., 1997)
+
+
+![image](https://user-images.githubusercontent.com/29431131/135471635-20bb34b9-054b-456a-822d-c4b1dbd38ed5.png)
+
+Gridded tracks from CS2 (a), S3A (b), and S3B (c) on a 25×25 km polar stereographic grid, respectively covering approximately
+11 %, 7 %, and 7 % of the total NSIDC NASA Team sea ice extent (grey mask) on day t = 1 December 2018. By combining the three
+satellites (d), this coverage is increased to approximately 23 %. Combining t ± 4 d of gridded tracks (e), the coverage is increased further to
+approximately 72 % of the total sea ice extent. The black ice type contour (from OSI-SAF) shows the boundary between thick MYI and thin
+FYI, on day t. Credit: Gregory et al (2021)
